@@ -1,0 +1,155 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 2,
+  "numPassedTests": 5,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 2,
+  "numTotalTests": 5,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1597239706329,
+  "success": true,
+  "testResults": [
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 2,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1597239708211,
+        "runtime": 1496,
+        "slow": false,
+        "start": 1597239706715
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+      },
+      "testFilePath": "/Users/arunkumaraswamy/Documents/projects/Study/APIAutomationTutorials/APIAutomationFrisby/src/tests/sampleTest.spec.js",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Frisby"
+          ],
+          "duration": 331,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Frisby should be user id 7",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "should be user id 7"
+        },
+        {
+          "ancestorTitles": [
+            "Frisby"
+          ],
+          "duration": 158,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Frisby should be user 1",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "should be user 1"
+        }
+      ],
+      "failureMessage": null
+    },
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 3,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1597239708967,
+        "runtime": 2250,
+        "slow": false,
+        "start": 1597239706717
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+      },
+      "testFilePath": "/Users/arunkumaraswamy/Documents/projects/Study/APIAutomationTutorials/APIAutomationFrisby/src/tests/sampleTest2.spec.js",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Frisby"
+          ],
+          "duration": 276,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Frisby should be user id 7",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "should be user id 7"
+        },
+        {
+          "ancestorTitles": [
+            "Frisby"
+          ],
+          "duration": 147,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Frisby should be user 1",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "should be user 1"
+        },
+        {
+          "ancestorTitles": [
+            "Frisby"
+          ],
+          "duration": 750,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Frisby should provide HTTP specific assertions - POST",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "should provide HTTP specific assertions - POST"
+        }
+      ],
+      "failureMessage": null
+    }
+  ],
+  "wasInterrupted": false
+}

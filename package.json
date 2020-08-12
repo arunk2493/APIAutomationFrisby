@@ -1,0 +1,31 @@
+{
+  "name": "apiautomationfrisby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --reporters default jest-stare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunk2493/APIAutomationFrisby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunk2493/APIAutomationFrisby/issues"
+  },
+  "homepage": "https://github.com/arunk2493/APIAutomationFrisby#readme",
+  "devDependencies": {
+    "frisby": "^2.1.2",
+    "jest": "^26.3.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@types/jest": "^26.0.9",
+    "babel-jest": "^26.3.0",
+    "jest-html-reporter": "^3.1.3",
+    "jest-stare": "^2.0.1"
+  }
+}
